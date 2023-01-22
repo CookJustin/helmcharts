@@ -1,0 +1,15 @@
+dependencies:
+- name: student-services
+  repository: file://../../services/student-services
+  version: 0.1.0
+- name: student-service-2
+  repository: file://../../services/student-service-2
+  version: 0.1.0
+- name: zookeeper
+  repository: file://../../services/zookeeper
+  version: 0.1.0
+- name: kafkabroker
+  repository: file://../../services/kafkabroker
+  version: 0.1.0
+digest: sha256:d9273d86386ee0705b80cfda91d1aef9e450795b22c957e129e836cac034a18a
+generated: "2023-01-21T22:01:17.762074-06:00"
