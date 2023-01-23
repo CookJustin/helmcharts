@@ -30,9 +30,6 @@ dependencies:
   - name: student-service-2
     version: 0.1.0
     repository: file://../../services/student-service-2
-  - name: zookeeper
-    version: 0.1.0
-    repository: file://../../services/zookeeper
   - name: kafkabroker
     version: 0.1.0
     repository: file://../../services/kafkabroker

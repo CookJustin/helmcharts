@@ -5,11 +5,8 @@ dependencies:
 - name: student-service-2
   repository: file://../../services/student-service-2
   version: 0.1.0
-- name: zookeeper
-  repository: file://../../services/zookeeper
-  version: 0.1.0
 - name: kafkabroker
   repository: file://../../services/kafkabroker
   version: 0.1.0
-digest: sha256:d9273d86386ee0705b80cfda91d1aef9e450795b22c957e129e836cac034a18a
-generated: "2023-01-21T22:01:17.762074-06:00"
+digest: sha256:58c2822105b0f80aca1304827338f28231fc5dd12a7254888c543e1634bcd7f9
+generated: "2023-01-22T21:39:01.075415-06:00"
